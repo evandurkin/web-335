@@ -1,0 +1,37 @@
+{
+    "customer_id": 111,
+    "first_name": "John",
+    "last_name": "Doe",
+    "date_of_birth": "01/01/1980",
+    "user_name": "jdoe",
+    "invoice": [
+        {
+            "invoice_id": "A123",
+            "date_created": "10/30/2021",
+            "date_shipped": "11/04/2021",
+            "item": [
+                {
+                    "item_id": "321",
+                    "name": "blue t-shirt",
+                    "price": 10,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "432",
+                    "name": "red t-shirt",
+                    "price": 10,
+                    "quantity": 1
+                },
+                {
+                    "item_id": "543",
+                    "name": "green-socks",
+                    "price": 5,
+                    "quantity": 2
+                }
+            ],
+            "subtotal": 30,
+            "tax": 3.38,
+            "total": 33.38
+        }
+    ]
+}

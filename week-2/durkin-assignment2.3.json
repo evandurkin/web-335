@@ -1,0 +1,31 @@
+{
+    "class": [
+        {
+            "class_id": "eng-1",
+            "name": "English 1",
+            "enroll": [
+                { "enroll_id": "1E2021", "grade": "freshman"},
+                {
+                    "student_id": 1324,
+                    "first_name": "Ludwig",
+                    "last_name": "Beethoven",
+                    "mi": "van"
+                },
+                {
+                    "student_id": 2435,
+                    "first_name": "Johann",
+                    "last_name": "Bach",
+                    "mi": "Sebastian"
+                },
+                {
+                    "student_id": 3546,
+                    "first_name": "Wolfgang",
+                    "last_name": "Mozart",
+                    "mi": "Amadeus"
+                }
+
+            ]
+
+        }
+    ]
+}
