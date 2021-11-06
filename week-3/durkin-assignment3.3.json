@@ -1,0 +1,30 @@
+[
+    {
+     "publisher": [
+        {
+            "publisher_name": "E Press",
+            "publisher_code": 1324,
+            "publisher_address": "500 1st Street",
+             "book": [
+                {
+                    "book_isbn": 9785916453,
+                    "book_name": "frankenstein",
+                    "book_price": 14.99,
+                    "author": [
+                        {
+                            "first_name": "mary",
+                            "last_name": "shelley",
+                            "author_contact": [
+                                {
+                                    "author_phone": 2129784242,
+                                    "author_email": "mshelley@gmail.com"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+    }        
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "users": [
+            {
+                "_id": 111,
+                "first_name": "John",
+                "last_name": "Doe",
+                "user_name": "jdoe",
+                "user_role": [
+                    {
+                        "role": "instructor",
+                        "permissions": [
+                            {
+                                "blackboard": true
+
+                            },
+                            {
+                                "admin": false
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
+
